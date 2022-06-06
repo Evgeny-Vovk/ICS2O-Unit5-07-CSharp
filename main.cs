@@ -23,7 +23,7 @@ class Program
         Console.WriteLine("");
         for (int repeat = 0; repeat <= number; repeat++)
         {
-          answer += repeat;
+            answer += repeat;
         }
         Console.WriteLine("The answer is " + answer + ".");
         Console.WriteLine("\nDone.");
